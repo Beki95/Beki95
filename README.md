@@ -44,7 +44,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beki95&layout=compact&theme=vision-friendly-dark" align="left" alt="" 
              vspace="5" hspace="5"/>
     </a>
-👨‍💻 About Me :
+- :👨‍💻 About Me :
 I am a Python Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyrgyzstan.
 - :telescope: I’m working as a Software Engineer and contributing backend for building web applications.
 
