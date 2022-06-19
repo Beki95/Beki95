@@ -44,7 +44,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beki95&layout=compact&theme=vision-friendly-dark" align="left" alt="" 
              vspace="5" hspace="5"/>
     </a>
-About Me :
+### :man_technologist About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
