@@ -40,8 +40,9 @@
  
  <div>
     <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats" align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beki95&layout=compact&theme=vision-friendly-dark" alt=""/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beki95&layout=compact&theme=vision-friendly-dark" align="left" alt="" 
+             vspace="5" hspace="5"/>
     </a>
 About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
