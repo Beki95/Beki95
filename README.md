@@ -1,7 +1,11 @@
+<a href="https://github.com/Beki95">
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Beki95&theme=github_dark">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Beki95&theme=github_dark">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Beki95&theme=github_dark"><br>
+    </p>
+</a> 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="100"/>
-</div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/beki-imanuil-aa6a24219/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
