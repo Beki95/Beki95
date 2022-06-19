@@ -45,7 +45,7 @@
              vspace="5" hspace="5"/>
     </a>
 
-- :woman_technologist: About Me :
+- :man_technologist: About Me :
 I am a Python Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyrgyzstan.
 - :telescope: I’m working as a Software Engineer and contributing backend for building web applications.
 
