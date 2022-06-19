@@ -6,6 +6,11 @@
     </p>
 </a> 
 
+
+
+    👋 Welcome to my profile!
+   
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/beki-imanuil-aa6a24219/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,12 +22,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Beki95&style=flat-square&color=blue" alt=""/>
 </div>
-  
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beki95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beki95&show_icons=true&theme=radical)
+ 
 <!--
 **Beki95/Beki95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
