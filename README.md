@@ -9,8 +9,9 @@
   <a href="https://t.me/beki_imanuil">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&color=white" alt="LinkedIn Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Beki95&style=flat-square&color=blue" alt=""/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Beki95&style=flat-square&color=blue" alt=""/>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beki95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
